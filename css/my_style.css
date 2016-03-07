@@ -1,0 +1,14 @@
+p{
+  color:blue;
+  text-align: center;
+  font-family: cursive;
+  line-height: 30px;
+}
+img{
+  border-radius: 20px;
+  max-width: 100%
+  height: auto;
+}
+#image_holder{
+  text-align: center;
+}
